@@ -2,7 +2,6 @@
 - 👀 I’m interested in Exploit Development
 - 🌱 I’m currently learning Exploit Development
 - 💞️ I’m looking to collaborate on Exploit Development
-- 📫 How to reach me Exp...
 
 <!---
 ap425q/ap425q is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
